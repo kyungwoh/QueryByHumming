@@ -1,0 +1,6 @@
+#!/bin/bash
+for i in $( ls ./humming_data/*.wav ); do
+#./humming $i
+./qbh -O kl -t 0.4 -i $i
+#../aubio-0.3.2/examples/qbh -O kl -t 0.3 -i $i
+done

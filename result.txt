@@ -1,0 +1,153 @@
+UDR_TYPE7
+note duration : -1
+note duration : 0
+note duration : 1
+note duration : 0
+note duration : 1
+note duration : 0
+note duration : 0
+note duration : -1
+note duration : 0
+note duration : 0
+note duration : 0
+note duration : 1
+note duration : 0
+note duration : 1
+note duration : 1
+note duration : -1
+note duration : 0
+note duration : 1
+note duration : 1
+note duration : -1
+note duration : -1
+note duration : -1
+note duration : 0
+note duration : -1
+note duration : 1
+note duration : 0
+note duration : 1
+note duration : 1
+note duration : 1
+note duration : 0
+note duration : 0
+note duration : -1
+note duration : 1
+note duration : 1
+note duration : -1
+note duration : 1
+note duration : 0
+note duration : 0
+note duration : -1
+note duration : -1
+note duration : 1
+note duration : 0
+note duration : 1
+note duration : 1
+note duration : 0
+note duration : 0
+note duration : 0
+note duration : 1
+note duration : -1
+note duration : 0
+note duration : -1
+note duration : 1
+note duration : 1
+note duration : 0
+note duration : 1
+note duration : 1
+note duration : 0
+note duration : -1
+note duration : -1
+note duration : 0
+note duration : -1
+note duration : 0
+note duration : 0
+note duration : 1
+note duration : -1
+note duration : 1
+note duration : -1
+note duration : 1
+note duration : -1
+note duration : 1
+note duration : 1
+note duration : 0
+note duration : 0
+note duration : -1
+note duration : 0
+note duration : 0
+note duration : -1
+note duration : 1
+note duration : 0
+note duration : -1
+note duration : 1
+note duration : 1
+note duration : 1
+note duration : 1
+note duration : 0
+note duration : 0
+note duration : 1
+note duration : 0
+note duration : 1
+note duration : 0
+note duration : 1
+note duration : 1
+note duration : 0
+note duration : 0
+note duration : -1
+note duration : 1
+note duration : 1
+note duration : 0
+note duration : -1
+note duration : 1
+note duration : -1
+note duration : 0
+[./0193.qbh] = -1
+[./21.qbh] = -1
+[./32.qbh] = -1
+[./36.qbh] = -1
+[./37.qbh] = -1
+[./38.qbh] = -1
+[./40.qbh] = -1
+[./8.qbh] = -1
+[./_Midi141.qbh] = -1
+[./ookinahurudokei.qbh] = -1
+[./oomakibahamidori.qbh] = -1
+[./군밤타령.qbh] = -1
+[./금강산찾아가자.qbh] = -1
+[./나디아_오프닝.qbh] = -1
+[./나어떡해.qbh] = -1
+[./남자는여자를귀찮게해.qbh] = -1
+[./노사연_만남.qbh] = -1
+[./돌아와요부산항에.qbh] = -1
+[./루돌프사슴코.qbh] = -1
+[./새싹들이다.qbh] = -1
+[./아기공룡둘리.qbh] = -1
+[./양희은_아침이슬.qbh] = -1
+[./파란마음_하얀마음2.qbh] = -1
+[./피구왕통키.qbh] = -1
+[./한영애_누구없소.qbh] = -1
+[./12.qbh] = 0
+[./yagisannyuubinn.qbh] = 0
+[./개구리왕눈이.qbh] = 0
+[./고기잡이.qbh] = 0
+[./고드름.qbh] = 0
+[./33.qbh] = 0
+[./권진원_살다보면.qbh] = 0
+[./16.qbh] = 0
+[./김광석_사랑했지만.qbh] = 0
+[./꿍따리사바라.qbh] = 0
+[./20.qbh] = 0
+[./1.qbh] = 0
+[./날아라슈퍼보드.qbh] = 0
+[./4.qbh] = 0
+[./남행열차.qbh] = 0
+[./널사랑하겠어.qbh] = 0
+[./22.qbh] = 0
+[./42.qbh] = 0
+[./47.qbh] = 0
+[./바람이전하는말.qbh] = 0
+[./사노라면.qbh] = 0
+[./7.qbh] = 0
+[./소양강처녀.qbh] = 0
+[./스승의 은혜.qbh] = 0
+[./23.qbh] = 0

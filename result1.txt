@@ -1,0 +1,101 @@
+UDR_TYPE1
+./humming_data/query0001.qbh 75
+curr total sum : 33
+./humming_data/강산애_넌할수있어.qbh 4
+curr total sum : 76
+./humming_data/과수원길.qbh 2
+curr total sum : 123
+./humming_data/금강산찾아가자.qbh 47
+curr total sum : 173
+./humming_data/김광석_나의노래.qbh 4
+curr total sum : 225
+./humming_data/김광석_나의노래2.qbh 20
+curr total sum : 277
+./humming_data/김광석_사랑했지만.qbh 27
+curr total sum : 330
+./humming_data/김광석_사랑했지만1.qbh 3
+curr total sum : 383
+./humming_data/김광석_이등병의편지.qbh 28
+curr total sum : 435
+./humming_data/김광석_일어나.qbh 7
+curr total sum : 489
+./humming_data/김광석_일어나1.qbh 23
+curr total sum : 543
+./humming_data/김광석_일어나2.qbh 1
+curr total sum : 597
+./humming_data/꼬마자동차붕붕.qbh 41
+curr total sum : 652
+./humming_data/나디아오프닝.qbh 38
+curr total sum : 709
+./humming_data/나디아오프닝1.qbh 38
+curr total sum : 766
+./humming_data/나어떡해.qbh 1
+curr total sum : 824
+./humming_data/남자는여자를귀찮게해.qbh 1
+curr total sum : 884
+./humming_data/남자는여자를귀찮게해1.qbh 26
+curr total sum : 944
+./humming_data/남자는여자를귀찮게해2.qbh 25
+curr total sum : 1004
+./humming_data/남행열차.qbh 12
+curr total sum : 1065
+./humming_data/남행열차1.qbh 14
+curr total sum : 1126
+./humming_data/널사랑하겠어.qbh 22
+curr total sum : 1188
+./humming_data/널사랑하겠어1.qbh 1
+curr total sum : 1250
+./humming_data/널사랑하겠어2.qbh 22
+curr total sum : 1312
+./humming_data/노엘.qbh 12
+curr total sum : 1377
+./humming_data/따오기.qbh 40
+curr total sum : 1444
+./humming_data/바람이전하는말.qbh 7
+curr total sum : 1515
+./humming_data/새싹들이다.qbh 1
+curr total sum : 1588
+./humming_data/아기꼬마자동차.qbh 1
+curr total sum : 1643
+./humming_data/아기꼬마자동차1.qbh 12
+curr total sum : 1698
+./humming_data/아파트.qbh 46
+curr total sum : 1776
+./humming_data/어머님은혜.qbh 30
+curr total sum : 1857
+./humming_data/우리모두다함께.qbh 43
+curr total sum : 1940
+./humming_data/윤도현_너를보내고.qbh 8
+curr total sum : 2025
+./humming_data/윤도현_너를보내고1.qbh 32
+curr total sum : 2110
+./humming_data/윤도현_너를보내고2.qbh 20
+curr total sum : 2195
+./humming_data/인디안인형처럼.qbh 3
+curr total sum : 2283
+./humming_data/인디안인형처럼1.qbh 4
+curr total sum : 2371
+./humming_data/조용필_여행을떠나요.qbh 1
+curr total sum : 2461
+./humming_data/조용필_여행을떠나요1.qbh 54
+curr total sum : 2551
+./humming_data/쿵따리사바라.qbh 65
+curr total sum : 2607
+./humming_data/클래식_마법의성.qbh 2
+curr total sum : 2699
+./humming_data/클래식_마법의성1.qbh 1
+curr total sum : 2791
+./humming_data/태권V.qbh 14
+curr total sum : 2884
+./humming_data/편승엽_찬찬찬.qbh 2
+curr total sum : 2980
+./humming_data/편승엽_찬찬찬1.qbh 23
+curr total sum : 3076
+./humming_data/퐁당퐁당.qbh 1
+curr total sum : 3173
+./humming_data/핑계.qbh 35
+curr total sum : 3272
+./humming_data/홍경민_흔들린우정.qbh 4
+curr total sum : 3373
+rank_num : 21
+avg : 68

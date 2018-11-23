@@ -1,0 +1,93 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.6	//
+AR	histogram/Makefile	/^AR            = ar cqs$/;"	m
+CC	Makefile	/^CC = gcc$/;"	m
+CC	histogram/Makefile	/^CC            = gcc$/;"	m
+CFLAGS	Makefile	/^CFLAGS = -W -Wall -g $/;"	m
+CFLAGS	histogram/Makefile	/^CFLAGS        = -pipe -O2 -Wall -W -D_REENTRANT $(DEFINES)$/;"	m
+CHK_DIR_EXISTS	histogram/Makefile	/^CHK_DIR_EXISTS= test -d$/;"	m
+COMPRESS	histogram/Makefile	/^COMPRESS      = gzip -9f$/;"	m
+COPY	histogram/Makefile	/^COPY          = cp -f$/;"	m
+COPY_DIR	histogram/Makefile	/^COPY_DIR      = $(COPY) -r$/;"	m
+COPY_FILE	histogram/Makefile	/^COPY_FILE     = $(COPY)$/;"	m
+CXX	histogram/Makefile	/^CXX           = g++$/;"	m
+CXXFLAGS	histogram/Makefile	/^CXXFLAGS      = -pipe -O2 -Wall -W -D_REENTRANT $(DEFINES)$/;"	m
+DEFINES	histogram/Makefile	/^DEFINES       = -DQT_NO_DEBUG -DQT_GUI_LIB -DQT_CORE_LIB -DQT_SHARED$/;"	m
+DEL_DIR	histogram/Makefile	/^DEL_DIR       = rmdir$/;"	m
+DEL_FILE	histogram/Makefile	/^DEL_FILE      = rm -f$/;"	m
+DESTDIR	histogram/Makefile	/^DESTDIR       = $/;"	m
+DIST	histogram/Makefile	/^DIST          = \/usr\/local\/Trolltech\/Qt-4.3.1\/mkspecs\/common\/g++.conf \\$/;"	m
+EXPAND_UDR	comparator.h	9;"	d
+HISTOGRAM	comparator.h	10;"	d
+HUMMING_LIST	humming_data.h	/^char HUMMING_LIST[][128] = {$/;"	v
+INCPATH	histogram/Makefile	/^INCPATH       = -I\/usr\/local\/Trolltech\/Qt-4.3.1\/mkspecs\/linux-g++ -I. -I\/usr\/local\/Trolltech\/Qt-4.3.1\/include\/QtCore -I\/usr\/local\/Trolltech\/Qt-4.3.1\/include\/QtCore -I\/usr\/local\/Trolltech\/Qt-4.3.1\/include\/QtGui -I\/usr\/local\/Trolltech\/Qt-4.3.1\/include\/QtGui -I\/usr\/local\/Trolltech\/Qt-4.3.1\/include -I. -I. -I.$/;"	m
+INSTALL_DIR	histogram/Makefile	/^INSTALL_DIR   = $(COPY_DIR)$/;"	m
+INSTALL_FILE	histogram/Makefile	/^INSTALL_FILE  = install -m 644 -p$/;"	m
+INSTALL_PROGRAM	histogram/Makefile	/^INSTALL_PROGRAM = install -m 755 -p$/;"	m
+LFLAGS	histogram/Makefile	/^LFLAGS        = -Wl,-rpath,\/usr\/local\/Trolltech\/Qt-4.3.1\/lib$/;"	m
+LIBS	histogram/Makefile	/^LIBS          = $(SUBLIBS)  -L\/usr\/local\/Trolltech\/Qt-4.3.1\/lib -lQtGui -L\/usr\/local\/Trolltech\/Qt-4.3.1\/lib -L\/usr\/X11R6\/lib -lpng -lSM -lICE -pthread -L\/lib -pthread -lXi -lXrender -lXrandr -lXfixes -lXcursor -lXinerama -lfreetype -lfontconfig -lXext -lX11 -lQtCore -lz -lm -pthread -lgthread-2.0 -lrt -lglib-2.0 -ldl -lpthread$/;"	m
+LINK	histogram/Makefile	/^LINK          = g++$/;"	m
+MKDIR	histogram/Makefile	/^MKDIR         = mkdir -p$/;"	m
+MOVE	histogram/Makefile	/^MOVE          = mv -f$/;"	m
+MUSIC_LIST	humming_data.h	/^char MUSIC_LIST[][128] = { $/;"	v
+MyWidget	histogram/main.cpp	/^MyWidget::MyWidget(QWidget *parent)$/;"	f	class:MyWidget
+MyWidget	histogram/main.cpp	/^class MyWidget : public QWidget$/;"	c	file:
+OBJECTS	histogram/Makefile	/^OBJECTS       = main.o$/;"	m
+OBJECTS_DIR	histogram/Makefile	/^OBJECTS_DIR   = .\/$/;"	m
+QBH_LIST_SIZE	comparator.h	7;"	d
+QMAKE	histogram/Makefile	/^QMAKE         = \/usr\/local\/Trolltech\/Qt-4.3.1\/bin\/qmake$/;"	m
+QMAKE_TARGET	histogram/Makefile	/^QMAKE_TARGET  = histogram$/;"	m
+RANKING	comparator.h	11;"	d
+RANLIB	histogram/Makefile	/^RANLIB        = $/;"	m
+SED	histogram/Makefile	/^SED           = sed$/;"	m
+SOURCES	histogram/Makefile	/^SOURCES       = main.cpp $/;"	m
+SYMLINK	histogram/Makefile	/^SYMLINK       = ln -sf$/;"	m
+TAR	histogram/Makefile	/^TAR           = tar -cf$/;"	m
+TARGET	Makefile	/^TARGET = qbh$/;"	m
+TARGET	histogram/Makefile	/^TARGET        = histogram$/;"	m
+UDR	comparator.h	8;"	d
+UDR_TYPE	comparator.h	/^int UDR_TYPE;$/;"	v
+__search_music	comparator.c	/^__search_music(char *humming, int option)$/;"	f
+_note	notediff.h	/^} _note;$/;"	t	typeref:struct:__anon1
+delta	notediff.h	/^	int delta;$/;"	m	struct:__anon1
+drawHistogram	histogram/main.cpp	/^MyWidget::drawHistogram(QPainter &p)$/;"	f	class:MyWidget
+getEditDistance	editdistance.c	/^getEditDistance(char *s, char *t)$/;"	f
+getEditDistance	editdistance_old.c	/^getEditDistance(char *s, char *t)$/;"	f
+getExtendUdr	extraction.c	/^getExtendUdr(char *fname, int type)$/;"	f
+getMin	editdistance.c	/^int getMin(int a, int b, int c)$/;"	f
+getMin	editdistance_old.c	/^int getMin(int a, int b, int c)$/;"	f
+getMinEditDistance	editdistance.c	/^getMinEditDistance(char* query1, char* query2)$/;"	f
+getMinEditDistance	editdistance_old.c	/^getMinEditDistance(char* humming, char* music)$/;"	f
+getMinMelodyDiff	udrdiff.c	/^getMinMelodyDiff(char* humming, char* music, int type)$/;"	f
+getMinNoteDiff	notediff.c	/^getMinNoteDiff(char* humming_file, char* music_file)$/;"	f
+getNoteDiff	notediff.c	/^getNoteDiff(_note note1[], _note note2[], int size, int loop_nums)$/;"	f
+getUdr	extraction.c	/^getUdr(char* fname)$/;"	f
+get_ranking_list	comparator.c	/^get_ranking_list( char* humming )$/;"	f
+histogram	histogram.c	/^histogram(char* fname)$/;"	f
+humming_nums	comparator.c	/^static int humming_nums = 36;$/;"	v	file:
+init_histogram	histogram.c	/^init_histogram()$/;"	f
+main	histogram/main.cpp	/^int main(int argc, char *argv[])$/;"	f
+main	main.c	/^main(int argc, char* argv[])$/;"	f
+melodyDiff	udrdiff.c	/^melodyDiff(int* melody1, int size1, int* melody2, int size2)$/;"	f
+melody_list	extraction.c	/^int melody_list[4096];$/;"	v
+music_diff_list	comparator.c	/^static int music_diff_list[QBH_LIST_SIZE][2]; 	\/\/ [2] = [index][music diff value]$/;"	v	file:
+note_avg	histogram/main.cpp	/^	int note_avg;$/;"	m	class:MyWidget	file:
+note_table	histogram.c	/^static int note_table[128];$/;"	v	file:
+note_table	histogram/main.cpp	/^	int note_table[128];$/;"	m	class:MyWidget	file:
+paintEvent	histogram/main.cpp	/^	void paintEvent(QPaintEvent*) {$/;"	f	class:MyWidget	file:
+pitch	notediff.h	/^	int pitch;$/;"	m	struct:__anon1
+power	notediff.c	/^power(int base, int n)$/;"	f
+qbh_list	comparator.c	/^static char* qbh_list[QBH_LIST_SIZE][128];$/;"	v	file:
+qbh_list_size	comparator.c	/^static int qbh_list_size;$/;"	v	file:
+readNotefile	histogram/main.cpp	/^void MyWidget::readNotefile()$/;"	f	class:MyWidget
+readQbhList	comparator.c	/^readQbhList()$/;"	f
+search_music	comparator.c	/^search_music(char *humming, int option)$/;"	f
+sort_music_list	comparator.c	/^sort_music_list( char* humming )$/;"	f
+strnget	editdistance.c	/^char* strnget(char* str, int pos, int nums)$/;"	f
+strnget	editdistance_old.c	/^char* strnget(char* str, int pos, int nums)$/;"	f
+udr_list	extraction.c	/^char udr_list[4096];$/;"	v
+view_histogram	histogram.c	/^view_histogram()$/;"	f
